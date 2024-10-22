@@ -1,7 +1,5 @@
 ## Personal
 
----
-
 Name: Guntae Park <br />
 Email: wlq4568@gmail.com <br />
 Linkedin: [🔗](https://www.linkedin.com/in/eatnug) 
@@ -10,16 +8,12 @@ Fullstack software engineer with frontend-focused experience, actively expanding
 
 ## Skills
 
----
-
 **Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-typescript-official"></span> TypeScript, <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> JavaScript, <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python <br />
 **Tools and Frameworks:** <span class="iconify" data-icon="vscode-icons:file-type-reactjs"></span> React,<span class="iconify" data-icon="vscode:file-type-reactjs"></span> ReactNative, <span class="iconify" data-icon="devicon:android"></span> Android (Java)  , <span class="iconify" data-icon="devicon:apple"></span> iOS (Obj-c), <span class="iconify" data-icon="devicon:nextjs"></span> Next.js , <span class="iconify" data-icon="vscode-icons:file-type-nestjs"></span> Nest.js <br />
 **Languages:** Korean (native), English (conversational)
 
 
 ## Work Experience
-
----
 
 ### [DoctorNow](https://www.linkedin.com/company/doctornowrecruit/) <br />
 **Co-founder / Frontend Engineer** - 01/2020 ~ 09/2024
@@ -35,8 +29,6 @@ Fullstack software engineer with frontend-focused experience, actively expanding
 
 
 ## Projects
-
----
 
 ### Doctornow User App
 
@@ -54,8 +46,6 @@ Fullstack software engineer with frontend-focused experience, actively expanding
 
 
 ## Education
-
----
 
 ### Hankuk Universitiy of Foreign Studies, HUFS
 - **B.Arts. in International Studies** 03/2015 - 08/2023
